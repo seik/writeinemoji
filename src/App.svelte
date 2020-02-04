@@ -39,7 +39,7 @@
 
 <footer>
   <small>
-    🇼ℹ️⬆️🅗  ❤️  🅱️y
+    🇼ℹ️⬆️🅗  🤮  🅱️y
     <a href="https://github.com/seik">Seik</a>
   </small>
 </footer>
